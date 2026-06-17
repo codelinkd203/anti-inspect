@@ -4,6 +4,8 @@ Attempt to discourage casual inspection of your website by blocking common short
 
 ⚠️ **Important:** Nothing can fully prevent inspection. Users control their browser, can disable JavaScript, modify page code, view network requests, use browser extensions, or inspect content before scripts run. This project only raises the effort required for casual users.
 
+You can see a live demo [here](https://codelinkd203.github.io/anti-inspect/demo.html).
+
 ## Features
 
 * Blocks right-click menus

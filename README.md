@@ -41,7 +41,7 @@ Attempt to discourage casual inspection of your website by blocking common short
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="https://cdn.jsdelivr.net/gh/codelinkd203/anti-inspect@latest/anti-inspect.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/codelinkd203/anti-inspect@latest/index.min.js"></script>
 </head>
 <body>
     <h1>Protected Page</h1>
@@ -85,7 +85,7 @@ Load the script as early as possible:
 
 ```html
 <head>
-    <script src="https://cdn.jsdelivr.net/gh/codelinkd203/anti-inspect@latest/anti-inspect.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/codelinkd203/anti-inspect@latest/index.min.js"></script>
 </head>
 ```
 

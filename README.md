@@ -29,26 +29,10 @@ Attempt to discourage casual inspection of your website by blocking common short
 
 ## Installation
 
-### jsDelivr
+### jsDelivr CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/codelinkd203/anti-inspect@latest/anti-inspect.min.js"></script>
-```
-
-### Specific Version
-
-```html
-<script src="https://cdn.jsdelivr.net/gh/codelinkd203/anti-inspect@1.0.0/anti-inspect.min.js"></script>
-```
-
-### npm
-
-```bash
-npm install anti-inspect
-```
-
-```js
-import "anti-inspect";
+<script src="https://cdn.jsdelivr.net/gh/codelinkd203/anti-inspect@latest/index.min.js"></script>
 ```
 
 ## Example

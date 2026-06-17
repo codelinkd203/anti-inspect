@@ -1,14 +1,3 @@
-// ==UserScript==
-// @name         Anti-Inspect
-// @namespace    http://tampermonkey.net/
-// @version      2026-06-17
-// @description  try to take over the world!
-// @author       You
-// @match        *://*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com
-// @grant        none
-// ==/UserScript==
-
 (() => {
     // Block right-click
     document.addEventListener("contextmenu", e => {

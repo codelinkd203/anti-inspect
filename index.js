@@ -36,6 +36,7 @@
     // Debugger trap
     setInterval(() => {
         debugger;
+        console.clear();
     }, 50);
 
     let fired = false;
